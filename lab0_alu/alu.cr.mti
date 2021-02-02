@@ -1,0 +1,10 @@
+/home/work/Documents/School/spring_2020/design_for_testability/labs/lab0_alu/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/work/Documents/School/spring_2020/design_for_testability/labs/lab0_alu/ALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1_3 Compiler 2020.04 Apr 27 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+
+} {} {}}

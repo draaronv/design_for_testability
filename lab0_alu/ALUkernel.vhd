@@ -25,7 +25,7 @@ end ALUkernel;
 
 architecture behav of ALUkernel is
     begin
-        ALUkernel:process(X,Y,AMF,CI)
+        calculator:process(X,Y,AMF,CI)
             begin
                 if(AMF="10000") then
                     R<=Y;
@@ -60,5 +60,18 @@ architecture behav of ALUkernel is
                 elsif(AMF="11111") then
                     R<= abs(X);
             end if;
-end process;
+        end process;
+    checking:process(R)
+        begin
+            if(R='0') then
+                az<='1';
+            else
+                az<='0';
+            if(R<'0') then
+                an<='1';
+            else
+                an<='0';
+        end if;
+    end process;
+            
 end behav;

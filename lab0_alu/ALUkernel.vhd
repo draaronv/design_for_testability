@@ -63,7 +63,8 @@ architecture behav of ALUkernel is
                     result<= abs(X);
             end if;
         end process;
-    checking:process(result)
+
+    checking:process(result,amf)
         begin
             if(result=x"00") then
                 az<='1';
@@ -73,7 +74,14 @@ architecture behav of ALUkernel is
                 an<='1';
             else
                 an<='0';
-            if()
+            if( (AMF="10001" or AMF="10010" or AMF="10011" or AMF="10110" or AMF="10110" or AMF="11000" or AMF="11001" or AMF="11010") and ( x(15)=y(15)  ) and ( result(15)/=x(15)  ) and (result(15)/=y(15))  ) then 
+                av<='1';
+            else
+                av<='0';
+            if(signed(x)<0) then
+                as<='1';
+            else
+                as<='0';
         end if;
-    end process;
+        end process;
 end behav;

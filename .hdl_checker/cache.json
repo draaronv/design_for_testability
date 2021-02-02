@@ -248,7 +248,7 @@
      "name": "/home/work/Documents/School/spring_2020/design_for_testability/labs/lab0_alu/ALUkernel.vhd",
      "__class__": "Path"
     },
-    "mtime": 1612296155.6022854,
+    "mtime": 1612297712.411441,
     "flags": {
      "source_specific": [],
      "single": [],
@@ -414,6 +414,10 @@
   ],
   "inferred_libraries": [
    {
+    "name": "/tmp/tmp4569jffd.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpwfa3ke3a.vhd",
     "__class__": "Path"
    },
@@ -422,7 +426,27 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmprtt0wh85.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpcwkckgrz.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpuc9922tc.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpomlitxuw.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp54zrahr6.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp5qzx5hus.vhd",
     "__class__": "Path"
    },
    {
@@ -434,11 +458,35 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp5fxmn81u.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxc76pdlr.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9aub49vp.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpo8gm3hov.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpyq0zkiwe.vhd",
     "__class__": "Path"
    },
    {
     "name": "/tmp/tmps17zjzzl.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpc3moqxp0.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpiu7ybknz.vhd",
     "__class__": "Path"
    },
    {
@@ -450,11 +498,71 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpkdwqi9_n.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9z1b7ejz.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpng72ap22.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpohc9noiu.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpuxhrd9lm.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpruh_sk09.vhd",
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp4_8jkzs4.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpdftuxa_1.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpwpnuuf4l.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp6xm52qpd.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmplj81zb1d.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpiaj3te_p.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpx0gaxrl_.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmplyzoovav.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9b7xd8fa.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpfuz_0z7k.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpi8x2t3qq.vhd",
     "__class__": "Path"
    },
    {
@@ -470,7 +578,35 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmppagi6a60.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp_joueaxj.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpx27vwt7f.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmphxlxb8qv.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp7t8bcdq3.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpeecnnequ.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp2mngt2pi.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp4uopu71i.vhd",
     "__class__": "Path"
    },
    {
@@ -478,7 +614,19 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpkz3mgg67.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpnswiaz2_.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpg8e6bkod.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpvkui8li6.vhd",
     "__class__": "Path"
    },
    {
@@ -490,11 +638,27 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpkj_t467o.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9m7z43y4.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpjga3bmhm.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp004raik4.vhd",
     "__class__": "Path"
    },
    {
     "name": "/tmp/tmpztpv3acw.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpr6ulx5e1.vhd",
     "__class__": "Path"
    },
    {
@@ -506,11 +670,39 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpxk350qxz.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpybw7o3l6.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpza1sf4t8.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpdcwa9kps.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpafy2wifd.vhd",
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpyi28gu47.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpajmz4h2v.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpl5ojqctz.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpjvmqr_5s.vhd",
     "__class__": "Path"
    },
    {
@@ -530,11 +722,23 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpw86miyz1.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpjyqh1tci.vhd",
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp3gp956vc.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpv50b3egk.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpgx38xg_9.vhd",
     "__class__": "Path"
    },
    {
@@ -550,7 +754,35 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp9qw6j1_u.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpb8927sc3.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpax9jfanc.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp466uo7bh.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxvl5khe5.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp3wruh_6k.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpwdvaijtz.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpmw41tux2.vhd",
     "__class__": "Path"
    },
    {
@@ -558,7 +790,19 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmplp2m4djj.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpdvx_vrxy.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmprmyw7lbd.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpc_6q3g1j.vhd",
     "__class__": "Path"
    },
    {
@@ -574,6 +818,14 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp_ma39fff.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpk8ie6dkg.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpz2_k670y.vhd",
     "__class__": "Path"
    },
@@ -582,7 +834,15 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpi77n269u.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmphv7y2q1t.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpwn2ozqnt.vhd",
     "__class__": "Path"
    },
    {
@@ -594,7 +854,15 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpxovpyu49.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp8s0sc96s.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpl4rcal16.vhd",
     "__class__": "Path"
    },
    {
@@ -606,11 +874,39 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp0m4ungg3.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp5g2tpvyj.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpkx89f20_.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp8hppvn_s.vhd",
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpustapb8z.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpnxot8_e6.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpf_z70h1v.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp_6ay3i_2.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxg799639.vhd",
     "__class__": "Path"
    },
    {
@@ -622,11 +918,43 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmprmk04247.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpf7wxa9fv.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpukkdq9ud.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpazvfv98v.vhd",
     "__class__": "Path"
    },
    {
     "name": "/tmp/tmpdeaa96mg.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpudhf3l36.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp8s31m57s.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmprywd8ruo.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxtedhzsd.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp7q2xihox.vhd",
     "__class__": "Path"
    },
    {
@@ -646,7 +974,19 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpdl4n70uu.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp_mjx2a3h.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpy26324ia.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpv9dcw_3r.vhd",
     "__class__": "Path"
    },
    {
@@ -655,6 +995,10 @@
    },
    {
     "name": "/tmp/tmp52o1jpvi.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp0dzzp2tp.vhd",
     "__class__": "Path"
    },
    {
@@ -678,6 +1022,18 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpj5v_i9yd.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmplafpq_am.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpnsw8mj1v.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpeyrrv86w.vhd",
     "__class__": "Path"
    },
@@ -694,7 +1050,27 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpolhe4ntb.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpzcnjqfxx.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpd7cfynw2.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpd1xijg23.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpc1a7elst.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpkg53john.vhd",
     "__class__": "Path"
    },
    {
@@ -710,6 +1086,22 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpbq_i7xff.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpue5vybf7.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmphj1q93qr.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxszdvt0m.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpww4egei8.vhd",
     "__class__": "Path"
    },
@@ -718,11 +1110,27 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp6la0vrth.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp4wbz6p91.vhd",
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpynu6nbo6.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp_yrjp9x2.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmp73kqkwb5.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmph5jj1i84.vhd",
     "__class__": "Path"
    },
    {
@@ -746,6 +1154,18 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmptea8hy9q.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp3rqar9xv.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpt34p1rl_.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpvo9euc0q.vhd",
     "__class__": "Path"
    },
@@ -754,7 +1174,19 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpkpmjrv78.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmppi4ew6lf.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpt0l_tlk0.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmphdwgx6c1.vhd",
     "__class__": "Path"
    },
    {
@@ -766,7 +1198,15 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmplnxzersj.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpg3hfx3fd.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp8042i3ve.vhd",
     "__class__": "Path"
    },
    {
@@ -778,7 +1218,23 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp6_d6bj9b.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpipzszc6i.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpmj1na7ee.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpf2h74i_x.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpmlsi2dsu.vhd",
     "__class__": "Path"
    },
    {
@@ -787,6 +1243,10 @@
    },
    {
     "name": "/tmp/tmpv2wua0nq.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmps09yuwlj.vhd",
     "__class__": "Path"
    },
    {
@@ -802,6 +1262,18 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp4ooeegt9.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpikwbs_xr.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpigfsaqw7.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmplntll8kp.vhd",
     "__class__": "Path"
    },
@@ -811,6 +1283,18 @@
    },
    {
     "name": "/tmp/tmppsn4m56l.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpytw89543.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpp922b25c.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpzfw2lqfz.vhd",
     "__class__": "Path"
    },
    {
@@ -834,7 +1318,19 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp8vuzyazo.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmphdwaka2e.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpdjzlggny.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp8glztai_.vhd",
     "__class__": "Path"
    },
    {
@@ -850,6 +1346,22 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmpy4c2mhd6.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpahrp72gm.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpko0nh5hi.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpos44ko45.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpqp8r6nda.vhd",
     "__class__": "Path"
    },
@@ -858,11 +1370,54 @@
     "__class__": "Path"
    },
    {
+    "name": "/tmp/tmp4i9fj43x.vhd",
+    "__class__": "Path"
+   },
+   {
     "name": "/tmp/tmpmmaxea_g.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmptjso13pc.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmput2i6zk0.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxs9cf460.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmplmtpw_be.vhd",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp45u8jbui.vhd",
     "__class__": "Path"
    }
   ],
   "design_units": [
+   {
+    "owner": {
+     "name": "/home/work/Documents/School/fall_2020/structured_digital_design/labs/lab3/calcprocessing.vhd",
+     "__class__": "Path"
+    },
+    "type_": "entity",
+    "name": {
+     "name": "calcprocessing",
+     "case_sensitive": false,
+     "__class__": "VhdlIdentifier"
+    },
+    "locations": [
+     [
+      4,
+      7
+     ]
+    ],
+    "__class__": "VhdlDesignUnit"
+   },
    {
     "owner": {
      "name": "/home/work/Documents/School/fall_2020/structured_digital_design/labs/lab4/sequencedetector.vhd",
@@ -890,6 +1445,25 @@
     "type_": "entity",
     "name": {
      "name": "clkdiv",
+     "case_sensitive": false,
+     "__class__": "VhdlIdentifier"
+    },
+    "locations": [
+     [
+      4,
+      7
+     ]
+    ],
+    "__class__": "VhdlDesignUnit"
+   },
+   {
+    "owner": {
+     "name": "/home/work/Documents/School/fall_2020/structured_digital_design/labs/lab3/overcheck.vhd",
+     "__class__": "Path"
+    },
+    "type_": "entity",
+    "name": {
+     "name": "overcheck",
      "case_sensitive": false,
      "__class__": "VhdlIdentifier"
     },

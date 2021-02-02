@@ -1,6 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_signed.all;
+use ieee.numeric_std.all;
 -- x =input
 -- y =input
 -- CI =Carry in bit
@@ -24,54 +25,55 @@ entity ALUkernel is
 end ALUkernel;
 
 architecture behav of ALUkernel is
+    signal result:std_logic_vector(15 downto 0);
     begin
         calculator:process(X,Y,AMF,CI)
             begin
                 if(AMF="10000") then
-                    R<=Y;
+                    result<=Y;
                 elsif(AMF="10001") then
-                    R<=Y+1;
+                    result<=Y+1;
                 elsif(AMF="10010") then
-                    R<=X+Y+CI;
+                    result<=X+Y+CI;
                 elsif(AMF="10011") then
-                    R<=Y+X;
+                    result<=Y+X;
                 elsif(AMF="10100") then
-                    R<=not Y;
+                    result<=not Y;
                 elsif(AMF="10101") then
-                    R<=-Y;
+                    result<=-Y;
                 elsif(AMF="10110") then
-                    R<=X-Y+CI - 1;
+                    result<=X-Y+CI - 1;
                 elsif(AMF="10111") then
-                    R<=X-Y;
+                    result<=X-Y;
                 elsif(AMF="11000") then
-                    R<=Y-1;
+                    result<=Y-1;
                 elsif(AMF="11001") then
-                    R<=Y-X;
+                    result<=Y-X;
                 elsif(AMF="11010") then
-                    R<=Y-X+CI-1;  
+                    result<=Y-X+CI-1;  
                 elsif(AMF="11011") then
-                    R<=not X;  
+                    result<=not X;  
                 elsif(AMF="11100") then
-                    R<=X and Y;  
+                    result<=X and Y;  
                 elsif(AMF="11101") then
-                    R<=X or Y;  
+                    result<=X or Y;  
                 elsif(AMF="11110") then
-                    R<=X xor Y;
+                    result<=X xor Y;
                 elsif(AMF="11111") then
-                    R<= abs(X);
+                    result<= abs(X);
             end if;
         end process;
-    checking:process(R)
+    checking:process(result)
         begin
-            if(R='0') then
+            if(result=x"00") then
                 az<='1';
             else
                 az<='0';
-            if(R<'0') then
+            if(signed(result)<0) then
                 an<='1';
             else
                 an<='0';
+            if()
         end if;
     end process;
-            
 end behav;

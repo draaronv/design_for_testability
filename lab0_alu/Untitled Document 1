@@ -1,0 +1,52 @@
+111111
+000000
+
+UUUUUUUUUUUUUUUU
+0000000000000000
+UUUUUUUUUUUUUUUUUUUUUUUU
+000000000000000000000000
+111111111111111011111111
+000000000000000100000000
+force -freeze sim:/alu/Sel(0) 1 0, 0 {50 ps} -r 100
+force -freeze sim:/alu/Sel(1) 1 0, 0 {75 ps} -r 150
+force -freeze sim:/alu/Sel(2) 1 0, 0 {100 ps} -r 200
+force -freeze sim:/alu/Sel(3) 1 0, 0 {125 ps} -r 250
+force -freeze sim:/alu/Sel(4) 1 0, 0 {150 ps} -r 300
+force -freeze sim:/alu/Sel(5) 1 0, 0 {175 ps} -r 350
+force -freeze sim:/alu/Sel(6) 1 0, 0 {200 ps} -r 400
+force -freeze sim:/alu/Sel(7) 1 0, 0 {225 ps} -r 450
+
+
+load=110101
+sel=01110101
+en=0101
+
+
+restart
+force -freeze sim:/alu/CLK 1 0, 0 {25 ps} -r 50
+force -freeze sim:/alu/Sel(0) 1 0, 0 {50 ps} -r 100
+force -freeze sim:/alu/Sel(1) 1 0, 0 {75 ps} -r 150
+force -freeze sim:/alu/Sel(2) 1 0, 0 {100 ps} -r 200
+force -freeze sim:/alu/Sel(3) 1 0, 0 {125 ps} -r 250
+force -freeze sim:/alu/Sel(4) 1 0, 0 {150 ps} -r 300
+force -freeze sim:/alu/Sel(5) 1 0, 0 {175 ps} -r 350
+force -freeze sim:/alu/Sel(6) 1 0, 0 {200 ps} -r 400
+force -freeze sim:/alu/Sel(7) 1 0, 0 {225 ps} -r 450
+
+force -freeze sim:/alu/Load(0) 1 0, 0 {50 ps} -r 100
+force -freeze sim:/alu/Load(1) 1 0, 0 {75 ps} -r 150
+force -freeze sim:/alu/Load(2) 1 0, 0 {100 ps} -r 200
+force -freeze sim:/alu/Load(3) 1 0, 0 {125 ps} -r 250
+force -freeze sim:/alu/Load(4) 1 0, 0 {150 ps} -r 300
+force -freeze sim:/alu/Load(5) 1 0, 0 {175 ps} -r 350
+
+force -freeze sim:/alu/AMF 10011 0
+force -freeze sim:/alu/CI 0 0
+force -freeze sim:/alu/En(0) 1 0, 0 {50 ps} -r 100
+force -freeze sim:/alu/En(1) 1 0, 0 {75 ps} -r 150
+force -freeze sim:/alu/En(2) 1 0, 0 {100 ps} -r 200
+force -freeze sim:/alu/En(3) 1 0, 0 {125 ps} -r 250
+force -freeze sim:/alu/PMD 000000000000000000000000 0
+force -freeze sim:/alu/DMD 0000000000000001 0
+force -freeze sim:/alu/R 0000000000000000 0
+run
